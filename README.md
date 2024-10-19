@@ -1,3 +1,3 @@
 # squash-count-testing
 
-Commit #3
+Commit #4
