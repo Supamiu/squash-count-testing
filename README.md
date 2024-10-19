@@ -1,3 +1,3 @@
 # squash-count-testing
 
-Commit #5
+A simple testing repo to check contributions count related to PR squash
